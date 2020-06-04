@@ -1,0 +1,257 @@
+; *********************************************************
+; Catalog description file for SQL Manager
+; $VER: SQLManager.cd 1.0 (02.07.2010) ©2010 Andrea Palmatè
+; *********************************************************
+;
+MSG_ERROR (1000//128)
+SQL Manager Error
+;
+MSG_OK (//64)
+Ok
+;
+MSG_SAVE (//64)
+Save
+;
+MSG_USE (//64)
+Use
+;
+MSG_CANCEL (//64)
+Cancel
+;
+MSG_ABORT (//64)
+Abort
+;
+MSG_ADD (//64)
+Add
+;
+MSG_REMOVE (//64)
+Remove
+;
+MSG_SORT (//64)
+Sort
+;
+MSG_YESNO (//64)
+Yes|No
+;
+MSG_YESNOCANCEL (//64)
+Yes|No|Cancel
+;
+MSG_ERROR_LOADING_ODBC (//64)
+Error while connecting to ODBC!
+;
+MSG_CONNECT_DSN (//128)
+Connect to an ODBC data source
+;
+MSG_SELECT_DSN (//128)
+Select the DSN to use
+;
+MSG_ENTER_CREDENTIALS (//128)
+Enter the credentials to access the server
+;
+MSG_USERNAME (//128)
+Username :
+;
+MSG_PASSWORD (//128)
+Password :
+;
+MSG_DSN_MANAGER (//128)
+_DSN Manager
+;
+MSG_BUTTON_CONNECT (//128)
+_Connect
+;
+MSG_BUTTON_CANCEL (//128)
+_Cancel
+;
+MSG_ERROR_LISTING_TABLES (//128)
+Error when listing Database tables!
+; 
+MSG_ERROR_LAUNCHING_IODBC (//128)
+Error when launching iODBC!
+;
+MSG_MENU_FILE (//64)
+File
+;
+MSG_MENU_NEW (//64)
+New
+;
+MSG_MENU_LOAD_FILE (//64)
+Load File..
+;
+MSG_MENU_SAVE (//64)
+Save
+;
+MSG_MENU_SAVE_AS (//64)
+Save As..
+;
+MSG_MENU_ABOUT (//64)
+About
+;
+MSG_MENU_EXIT (//64)
+Exit
+;
+MSG_MENU_EDIT (//64)
+Edit
+;
+MSG_MENU_UNDO (//64)
+Undo
+;
+MSG_MENU_REDO (//64)
+Redo
+;
+MSG_MENU_CUT (//64)
+Cut
+;
+MSG_MENU_COPY (//64)
+Copy
+;
+MSG_MENU_PASTE (//64);
+Paste
+;
+MSG_MENU_QUERY (//64)
+Query
+;
+MSG_MENU_EXECUTE_QUERY (//64)
+Execute Query
+;
+MSG_MENU_STOP_QUERY (//64)
+Stop Query
+;
+MSG_MENU_SHOW_RESULTS (//64)
+Show Results
+;
+MSG_MENU_SHOW_AS_GRID (//64)
+as Grid
+;
+MSG_MENU_SHOW_AS_TEXT (//64)
+as Text
+;
+MSG_MENU_SAVE_AS_TEXT (//64)
+Save Results in a text File
+;
+MSG_MENU_SAVE_AS_XML (//64)
+Save Results in a XML File
+;
+MSG_SB_BUTTON_NEW (//64)
+Create a new query
+;
+MSG_SB_BUTTON_OPEN (//64)
+Open an existent query file
+;
+MSG_SB_BUTTON_SAVE (//64)
+Save the current query
+;
+MSG_SB_BUTTON_CUT (//64)
+Cut
+;
+MSG_SB_BUTTON_COPY (//64)
+Copy
+;
+MSG_SB_BUTTON_PASTE (//64)
+Paste
+;
+MSG_SB_BUTTON_UNDO (//64)
+Undo
+;
+MSG_SB_BUTTON_REDO (//64)
+Redo
+;
+MSG_SB_BUTTON_START_QUERY (//64)
+Start Query
+;
+MSG_SB_BUTTON_STOP_QUERY (//64)
+Stop Query
+;
+MSG_SB_BUTTON_CONNECT_DB (//64)
+Connect to Data Source
+;
+MSG_SB_BUTTON_DISCONNECT_DB (//64)
+Disconnect from current Data Source
+;
+MSG_DISCONNECT_FROM_DB (//64)
+Do you want to disconnect from current Data Source?
+;
+MSG_ERR_OUTOFMEM (//64)
+Out of memory
+;
+MSG_NOT_CONNECTED (//64)
+Not Connected
+;
+MSG_CONNECTED (//64)
+Connected
+;
+MSG_QUERY_DONE (//64)
+Done
+;
+MSG_QUERY_CHANGED (//64)
+Query file has changed. Do you want to save it?
+;
+MSG_STARTING_QUERY (//64)
+Starting query..
+;
+MSG_STOPPING_QUERY (//64)
+Stopping query..
+;
+MSG_ERROR_READING_FILE (//64)
+Error when reading the file!
+;
+MSG_ERROR_MENU (//64)
+Cannot create the Menu!
+;
+MSG_ERROR_LOCKWB (//64)
+Cannot lock workbench screen!
+;
+MSG_ERROR_CLIPBOARD (//64)
+Clipboard data has no valid text!
+;
+MSG_ASL_OPENFILE (//64)
+Open a Query file
+;
+MSG_ASL_SAVEFILE (//64)
+Save a Query file
+;
+MSG_ASL_FILEEXISTS (//64)
+File already exists! Do you want to replace it?
+;
+MSG_STS_STATUS_HI (//64)
+Query status
+;
+MSG_STS_DBNAME_HI (//64)
+Database name
+;
+MSG_STS_CONNSTATUS_HI (//64)
+Connection status
+;
+MSG_STS_CURRENTUSER_HI (//64)
+Current user
+;
+MSG_STS_CURX_HI (//64)
+Current X cursor position
+;
+MSG_STS_CURY_HI (//64)
+Current Y cursor position
+;
+MSG_STS_TEXTCHANGED_HI (//128)
+This panel show if the text has changed into the query manager
+;
+MSG_RESULTTYPE_TABLES (//64)
+Tables
+;
+MSG_RESULTTYPE_VIEWS (//64)
+Views
+;
+MSG_RESULTTYPE_SYSTABLES (//64)
+Sys Tables
+;
+MSG_RESULTTYPE_ALL (//64)
+All
+;
+MSG_RESULTS_FILENAME (//64)
+Choose the filename to save the results
+;
+MSG_ROWS_RETURNED (//64)
+rows returned.
+;
+MSG_ERROR_NOMEMFORQUERY (//128)
+Not enough memory to execute the query!
+;

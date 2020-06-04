@@ -1,0 +1,44 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+include/SDL/
+projects/
+x64/
+*.tmp
+*.idb
+.vs/
+*.sln
+
+\.idea/
+*.swp
+
+# CMake
+build*/
+cmake*/
+debug*/
+
+bin/

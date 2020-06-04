@@ -1,0 +1,340 @@
+## version $VER: XX.catalog XX.XX (XX.XX.XX)
+## codeset X
+## language X
+;
+MSG_ERROR
+
+; SQL Manager Error
+;
+MSG_OK
+
+; Ok
+;
+MSG_SAVE
+
+; Save
+;
+MSG_USE
+
+; Use
+;
+MSG_CANCEL
+
+; Cancel
+;
+MSG_ABORT
+
+; Abort
+;
+MSG_ADD
+
+; Add
+;
+MSG_REMOVE
+
+; Remove
+;
+MSG_SORT
+
+; Sort
+;
+MSG_YESNO
+
+;Yes|No
+;
+MSG_YESNOCANCEL (//64)
+
+;Yes|No|Cancel
+;
+MSG_ERROR_LOADING_ODBC
+
+;Error while connecting to ODBC!
+;
+MSG_CONNECT_DSN
+
+; Connect to an ODBC data source
+;
+MSG_SELECT_DSN
+
+; Select the DSN to use
+;
+MSG_ENTER_CREDENTIALS
+
+; Enter the credentials to access the server
+;
+MSG_USERNAME
+
+; Username :
+;
+MSG_PASSWORD
+
+; Password :
+;
+MSG_DSN_MANAGER
+
+; _DSN Manager
+;
+MSG_BUTTON_CONNECT
+
+; _Connect
+;
+MSG_BUTTON_CANCEL
+
+; _Cancel
+;
+MSG_ERROR_LISTING_TABLES
+
+; Error when listing Database tables!
+;
+MSG_ERROR_LAUNCHING_IODBC
+
+;Error when launching iODBC!
+;
+MSG_MENU_FILE
+
+;File
+;
+MSG_MENU_NEW
+
+;New
+;
+MSG_MENU_LOAD_FILE
+
+;Load File..
+;
+MSG_MENU_SAVE
+
+;Save
+;
+MSG_MENU_SAVE_AS
+
+;Save As..
+;
+MSG_MENU_ABOUT
+
+;About
+;
+MSG_MENU_EXIT
+
+;Exit
+;
+MSG_MENU_EDIT
+
+;Edit
+;
+MSG_MENU_UNDO
+
+;Undo
+;
+MSG_MENU_REDO
+
+;Redo
+;
+MSG_MENU_CUT
+
+;Cut
+;
+MSG_MENU_COPY
+
+;Copy
+;
+MSG_MENU_PASTE;
+
+;Paste
+;
+MSG_MENU_QUERY
+
+;Query
+;
+MSG_MENU_EXECUTE_QUERY
+
+;Execute Query
+;
+MSG_MENU_STOP_QUERY
+
+;Stop Query
+;
+MSG_MENU_SHOW_RESULTS
+
+;Show Results
+;
+MSG_MENU_SHOW_AS_GRID
+
+;as Grid
+;
+MSG_MENU_SHOW_AS_TEXT
+
+;as Text
+;
+MSG_MENU_SAVE_AS_TEXT
+
+;Save Results in a text File
+;
+MSG_MENU_SAVE_AS_XML
+
+;Save Results in a XML File
+;
+MSG_SB_BUTTON_NEW
+
+;Create a new query
+;
+MSG_SB_BUTTON_OPEN
+
+;Open an existent query file
+;
+MSG_SB_BUTTON_SAVE
+
+;Save the current query
+;
+MSG_SB_BUTTON_CUT
+
+;Cut
+;
+MSG_SB_BUTTON_COPY
+
+;Copy
+;
+MSG_SB_BUTTON_PASTE
+
+;Paste
+;
+MSG_SB_BUTTON_UNDO
+
+;Undo
+;
+MSG_SB_BUTTON_REDO
+
+;Redo
+;
+MSG_SB_BUTTON_START_QUERY
+
+;Start Query
+;
+MSG_SB_BUTTON_STOP_QUERY
+
+;Stop Query
+;
+MSG_SB_BUTTON_CONNECT_DB
+
+;Connect to Data Source
+;
+MSG_SB_BUTTON_DISCONNECT_DB
+
+;Disconnect from current Data Source
+;
+MSG_DISCONNECT_FROM_DB
+
+;Do you want to disconnect from current Data Source?
+;
+MSG_ERR_OUTOFMEM
+
+;Out of memory
+;
+MSG_NOT_CONNECTED
+
+;Not Connected
+;
+MSG_CONNECTED
+
+;Connected
+;
+MSG_QUERY_DONE
+
+;Done
+;
+MSG_QUERY_CHANGED
+
+;Query file has changed. Do you want to save it?
+;
+MSG_STARTING_QUERY
+
+;Starting query..
+;
+MSG_STOPPING_QUERY
+
+;Stopping query..
+;
+MSG_ERROR_READING_FILE
+
+;Error when reading the file!
+;
+MSG_ERROR_MENU
+
+;Cannot create the Menu!
+;
+MSG_ERROR_LOCKWB
+
+;Cannot lock workbench screen!
+;
+MSG_ERROR_CLIPBOARD
+
+;Clipboard data has no valid text!
+;
+MSG_ASL_OPENFILE
+
+;Open a Query file
+;
+MSG_ASL_SAVEFILE
+
+;Save a Query file
+;
+MSG_ASL_FILEEXISTS
+
+;File already exists! Do you want to replace it?
+;
+MSG_STS_STATUS_HI
+
+;Query status
+;
+MSG_STS_DBNAME_HI
+
+;Database name
+;
+MSG_STS_CONNSTATUS_HI
+
+;Connection status
+;
+MSG_STS_CURRENTUSER_HI
+
+;Current user
+;
+MSG_STS_CURX_HI
+
+;Current cursor X position
+;
+MSG_STS_CURY_HI
+
+;Current cursor Y position
+;
+MSG_STS_TEXTCHANGED_HI
+
+;This panel show if the text has changed into the query manager
+;
+MSG_RESULTTYPE_TABLES
+
+;Tables
+;
+MSG_RESULTTYPE_VIEWS
+
+;Views
+;
+MSG_RESULTTYPE_SYSTABLES
+
+;Sys Tables
+;
+MSG_RESULTTYPE_ALL
+
+;All
+;
+MSG_RESULTS_FILENAME
+
+;Choose the filename to save the results
+;
+MSG_ROWS_RETURNED
+
+;rows returned.
+;
+MSG_ERROR_NOMEMFORQUERY
+
+;Not enough memory to execute the query!
+;
