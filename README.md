@@ -32,3 +32,19 @@ All you need to compile the project is already included int this repository. You
 
 - Execute *make* to build the SQL Manager executable
 - Execute *make clean* to clean the project
+
+Screenshots
+------
+
+*Query Builder*
+
+![Query Builder](https://github.com/afxgroup/iODBCSQLManager/blob/master/screens/sqlmanager.png?raw=true)
+
+
+*Query from Shell*
+
+![Query from Shell](https://github.com/afxgroup/iODBCSQLManager/blob/master/screens/query.png?raw=true)
+
+*PyOdbc*
+
+![pyOdbc](https://github.com/afxgroup/iODBCSQLManager/blob/master/screens/pyodbc.png?raw=true)
