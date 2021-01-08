@@ -10,7 +10,7 @@ CC = ppc-amigaos-gcc
 DEBUG = -O0 -gstabs -DDEBUG
 RELEASE = -O3 -ffast-math
 CFLAGS = $(RELEASE) $(DEBUG) -I. -Iinclude -Wall -DCATCOMP_NUMBERS -DCATCOMP_STRINGS
-LDFLAGS = -use-dynld -Wl,-export-dynamic
+LDFLAGS = -athread=native -use-dynld -Wl,-export-dynamic
 LIBS = -L../iODBCGui -liodbc -liodbcinst -ldl -lpthread -lunix -lauto -lraauto 
 EXENAME = "SQL Manager"
 

@@ -15,7 +15,7 @@
 #include <time.h>
 #include <sys/time.h>
 
-#include "SQLmanager.h"
+#include "SQLManager.h"
 
 #include "SQLManager_utils.h"
 #include "SQLManager_glue.h"
@@ -537,8 +537,8 @@ int executeQuery(STRPTR *args UNUSED, int32 arglen UNUSED, struct ExecBase *sysb
 						{
 							for (i = 0; i < displayWidths[colNum - 1]; i++)
 								fprintf(fp, "-");
-								if (colNum < numCols)
-									fprintf(fp, "+");
+							if (colNum < numCols)
+								fprintf(fp, "+");
 						}
 						fprintf(fp,"\n");
 
